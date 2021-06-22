@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJu+82cEhUJGkF7C8a8t3+0P1xUenbsIAIhvEId1sRx+pf2Cr+zG3g8iK6FGnwL0sP3qQ4P2aP05FDQuYDLwrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CDelo\\Nelnet_projects\\AppStructure\\AppStructure\\AppStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CDelo\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\CDelo\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\CDelo\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
